@@ -38,6 +38,7 @@
   - [Koteyka v2.0](https://github.com/CaptainChicky/Koteyka-2.0)
   - [Scam page source code collection](https://github.com/CaptainChicky/nortonvirussupportcenter.com)
   - [Endermanch's malware database](https://github.com/CaptainChicky/MalwareDatabase-1)
+  - [Endermanch's malware database 2](https://github.com/CaptainChicky/dmc)
       
 2) Regarding activation or tampering software:
   - [Removing Adobe Genuine Client](https://github.com/CaptainChicky/Remove-Adobe-Genuine-Client)
