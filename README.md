@@ -2,18 +2,31 @@
 (Bolded are the "must-visits")
 
 1) [***Hash retriever***](https://github.com/CaptainChicky/Hash-Retriever)
+
 2) [***Activating Microsoft Products for testing***](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)
+
 3) [***VBS Notifications Joke***](https://github.com/CaptainChicky/VBScript-Notifications-Joke)
+
 4) [***Removing Adobe Genuine Client***](https://github.com/CaptainChicky/Remove-Adobe-Genuine-Client)
+
 5) [***Temporary note-taking app***](https://github.com/CaptainChicky/Temporary-Note-taking-App)
+
 6) [***PC Optimizer Pro***](https://github.com/CaptainChicky/Trojan.BAT.PC-Optimizer-Pro)
+
 7) [Tools used in PC Optimizer Pro(not malware, just tools)](https://github.com/CaptainChicky/Tools-used-in-PC-Optimizer-Pro)
+
 8) [Setting the PowerShell Execution level](https://github.com/CaptainChicky/Setting-PowerShell-Execution-Level)
+
 9) [MuseScore downloader](https://github.com/CaptainChicky/musescore-downloader)
+
 10) [Youtube-dl](https://github.com/CaptainChicky/youtube-dl)
+
 11) [Trusted torrent tracker list](https://github.com/CaptainChicky/trackerslist)
+
 12) [You are an idiot](https://github.com/CaptainChicky/Trojan.JS.Youareanidiot)
+
 13) [Luscious album downloader](https://github.com/CaptainChicky/luscious-downloader)
+
 14) [MEMZ](https://github.com/CaptainChicky/MEMZ)
 
 # Full overview as of 12/17/2020
