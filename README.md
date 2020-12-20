@@ -100,6 +100,7 @@
   - [MuseScore](https://github.com/CaptainChicky/MuseScore)
   - [Microsoft DOS Terminal](https://github.com/CaptainChicky/terminal)
   - [Microsoft PowerShell](https://github.com/CaptainChicky/PowerShell)
+  - [ATOM text editor](https://github.com/CaptainChicky/atom)
   
 7) Other stuff like scripts, simulations, etc:
   - [.ps1 script collection](https://github.com/CaptainChicky/Script-Sharing)
