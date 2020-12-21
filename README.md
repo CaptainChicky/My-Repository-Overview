@@ -11,17 +11,17 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 <details>
   <summary>Here are my GitHub stats!</summary>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptainChicky&theme=dark&show_icons=true) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainChicky&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptainChicky&theme=blueberry&show_icons=true) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainChicky&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
   <summary>Some of my "cooler" repos(that I put effort into creating the code)!</summary>
   
-  [![Hash Finder](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Hash-Retriever&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Hash-Retriever).
-  [![VBS Notifications Joke](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=VBScript-Notifications-Joke&theme=dark&show_icons=true)](https://github.com/CaptainChicky/VBScript-Notifications-Joke).
-  [![Temporary note-taking app](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Temporary-Note-taking-App&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Temporary-Note-taking-App).
-  [![Remove the Adobe Genuine client](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Remove-Adobe-Genuine-Client&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Remove-Adobe-Genuine-Client).
+  [![Hash Finder](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Hash-Retriever&theme=blueberry&show_icons=true)](https://github.com/CaptainChicky/Hash-Retriever).
+  [![VBS Notifications Joke](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=VBScript-Notifications-Joke&theme=blueberry&show_icons=true)](https://github.com/CaptainChicky/VBScript-Notifications-Joke).
+  [![Temporary note-taking app](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Temporary-Note-taking-App&theme=blueberry&show_icons=true)](https://github.com/CaptainChicky/Temporary-Note-taking-App).
+  [![Remove the Adobe Genuine client](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Remove-Adobe-Genuine-Client&theme=blueberry&show_icons=true)](https://github.com/CaptainChicky/Remove-Adobe-Genuine-Client).
 </details>
 
 
