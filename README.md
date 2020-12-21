@@ -129,6 +129,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
     - [MacOS setup for VirtualBox](https://github.com/CaptainChicky/macos-virtualbox)
     - [Keyboard repurposer](https://github.com/CaptainChicky/sharpkeys)
     - [Windows power tools](https://github.com/CaptainChicky/PowerToys)
+    - [Magnet to torrent](https://github.com/CaptainChicky/Magnet2Torrent)
     - [Dynamically generated stats for GitHub readmes](https://github.com/CaptainChicky/github-readme-stats)
     
 5) My other projects:
