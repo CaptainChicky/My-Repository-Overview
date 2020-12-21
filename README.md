@@ -1,6 +1,5 @@
 ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) people have visited my profile so far.
 
-# STILL UNDER CONSTRUCTION
 <details>
   <summary>my stats!</summary>
   
@@ -15,7 +14,9 @@
   [![VBS Notifications Joke](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=VBScript-Notifications-Joke&theme=dark&show_icons=true)](https://github.com/CaptainChicky/VBScript-Notifications-Joke)
 </details>
 
-# What I suggest you visit :)
+<details>
+  <summary>What I suggest you visit :)</summary>
+  
 (Bolded are the "must-visits")
 
 1) [***Hash retriever***](https://github.com/CaptainChicky/Hash-Retriever)
@@ -45,6 +46,8 @@
 13) [Luscious album downloader](https://github.com/CaptainChicky/luscious-downloader)
 
 14) [MEMZ](https://github.com/CaptainChicky/MEMZ)
+</details>
+ 
 
 # Full overview as of 12/17/2020
 [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
