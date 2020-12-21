@@ -2,7 +2,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 
 ### Hi there! It's me, Chicky 😋!
 - 🛠 I am an ameatur coder. I dabble with Batch, VBScript and PowerShell, along with JavaScript and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
-- 🐦 I am also science/bird enthusiast, an avid 🎹pianst/violinist🎻, and a hobby writer 📝.
+- 🐦 I am also science/bird enthusiast, an avid 🎹pianist/violinist🎻, and a hobby writer 📝.
 - 😄 Pronouns: He/him.
 - 💼 I created small scripts like the [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever) and potpourris of tools along with other useful things, as seen in my repository "[Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)"! 
 - ⚡ Fun/random fact: China currently, as of 12/20/2020 just took a large rock from the moon. Very intriguing.
