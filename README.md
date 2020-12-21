@@ -1,5 +1,9 @@
 There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
 
+[Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
+
+[Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
+
 <details>
   <summary>my stats!</summary>
   
@@ -48,12 +52,11 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 14) [MEMZ](https://github.com/CaptainChicky/MEMZ)
 </details>
  
-
-# Full overview as of 12/17/2020
-[Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
-
-[Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
-
+ 
+ 
+ <details>
+  <summary>Full overview as of 12/20/2020</summary>
+  
 1) Malware and jokeware:
 - Self-created:
   - [PC Optimizer Pro](https://github.com/CaptainChicky/Trojan.BAT.PC-Optimizer-Pro)
@@ -78,10 +81,16 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
   - [Endermanch's malware database 2](https://github.com/CaptainChicky/dmc)
       
 2) Regarding activation or tampering software:
+- Self-created:
   - [Removing Adobe Genuine Client](https://github.com/CaptainChicky/Remove-Adobe-Genuine-Client)
   - [Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)
+- Forked(will likely not update from the date they are forked):
+Ø
 
 3) Games:
+- Self-created:
+Ø
+- Forked(will likely not update from the date they are forked):
   - [cmd pet](https://github.com/CaptainChicky/cmd-pet)
   
 4) Tools:
@@ -110,9 +119,15 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
     - [Windows power tools](https://github.com/CaptainChicky/PowerToys)
     
 5) My other projects:
+- Self-created:
   - [Temporary note-taking app](https://github.com/CaptainChicky/Temporary-Note-taking-App)
+- Forked(will likely not update from the date they are forked):
+Did you even read the name 😂. Why would I fork something and add it here as "my own project"? 😅
   
 6) Regarding .io games :D:
+- Self-created:
+Haha. Hahahahahahahaha. I really do wish someday to make my own .io game. I really do.
+- Forked(will likely not update from the date they are forked):
   - [arras.io](https://github.com/CaptainChicky/arrasio)
   - [obstar.io](https://github.com/CaptainChicky/Obstar)
   - [diep.io bots](https://github.com/CaptainChicky/diep_bot)
@@ -121,6 +136,9 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
   - [C++14 WebSocket server library](https://github.com/CaptainChicky/ws28)
   
 7) Software of notable companies:
+- Self-created:
+Thanks for even the fact that you think I am a part of a notable company 😋 🤣🤣🤣.
+- Forked(will likely not update from the date they are forked):
   - [qBittorent](https://github.com/CaptainChicky/qBittorrent)
   - [MuseScore](https://github.com/CaptainChicky/MuseScore)
   - [Microsoft DOS Terminal](https://github.com/CaptainChicky/terminal)
@@ -128,8 +146,12 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
   - [ATOM text editor](https://github.com/CaptainChicky/atom)
   
 8) Other stuff like scripts, simulations, etc:
+- Self-created:
+Ø
+- Forked(will likely not update from the date they are forked):
   - [.ps1 script collection](https://github.com/CaptainChicky/Script-Sharing)
   - [WebGL fluid simulation](https://github.com/CaptainChicky/WebGL-Fluid-Simulation)
   - [Pdf collections of multiple topics](https://github.com/CaptainChicky/pdfs)
   - [Models for the Lebanon explosion](https://github.com/CaptainChicky/models)
   - [Fluid simulation](https://github.com/CaptainChicky/FluidSimulation)
+</details>
