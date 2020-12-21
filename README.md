@@ -1,3 +1,20 @@
+![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited my profile so far.
+
+# STILL UNDER CONSTRUCTION
+<details>
+  <summary>my stats!</summary>
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptainChicky&theme=dark&show_icons=true) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainChicky&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
+  <summary>some of my cool repos!</summary>
+  
+  [![Hash Finder](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Hash-Retriever&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Hash-Retriever)
+  [![VBS Notifications Joke](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=VBScript-Notifications-Joke&theme=dark&show_icons=true)](https://github.com/CaptainChicky/VBScript-Notifications-Joke)
+</details>
+
 # What I suggest you visit :)
 (Bolded are the "must-visits")
 
@@ -33,8 +50,9 @@
 [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
 
 [Here](https://github.com/CaptainChicky/aops.com-related-code) is a collection of aops.com stuff(unpolished).
+
 Sort later:
-[cmd pet](https://github.com/CaptainChicky/cmd-pet)
+  - [cmd pet](https://github.com/CaptainChicky/cmd-pet)
 
 1) Malware and jokeware:
 - Self-created:
