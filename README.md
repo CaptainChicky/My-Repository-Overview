@@ -1,18 +1,20 @@
 There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
 
+# under construction
+
 [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
 
 [Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
 
 <details>
-  <summary>my stats!</summary>
+  <summary>Here are my GitHub stats!</summary>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptainChicky&theme=dark&show_icons=true) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainChicky&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
-  <summary>some of my cool repos!</summary>
+  <summary>Some of my cool repos!</summary>
   
   [![Hash Finder](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Hash-Retriever&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Hash-Retriever)
   [![VBS Notifications Joke](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=VBScript-Notifications-Joke&theme=dark&show_icons=true)](https://github.com/CaptainChicky/VBScript-Notifications-Joke)
