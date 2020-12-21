@@ -1,4 +1,4 @@
-![Visitor counter](http://profile-counter.glitch.me/Vukky123/count.svg) people have visited my profile so far.
+![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) people have visited my profile so far.
 
 # STILL UNDER CONSTRUCTION
 <details>
