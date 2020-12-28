@@ -3,8 +3,8 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 ##### GitHub to-do list(I can't do much before 2021 lol. busy asf on other things)
 1) Make a light theme-compatable readme.md for my userpage.
 2) Make guestbook like the one on c4cs.tripod.com.
-3) Make polished releases on my own repos.
-4) Fix all issues. 
+3) Make polished releases on my own repos, and fix all issues. 
+4) Fix my GitHub page 😅.
 5) Ø
 
 ### Hi there! It's me, Chicky 😋!
@@ -12,7 +12,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 - 🐦 I am also science/bird enthusiast, an avid 🎹pianist/violinist🎻, and a hobby writer 📝.
 - 😄 Pronouns: He/him.
 - 💼 I created small scripts like the [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever) and potpourris of tools along with other useful things, as seen in my repository "[Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)"! 
-- ⚡ Fun/random fact: China currently, as of 12/20/2020 just took a large rock from the moon. Very intriguing.
+- ⚡ Fun/random fact: 2020 is almost over.
 
 #### Stats and others 🤗!
 <details>
