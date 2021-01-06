@@ -4,8 +4,8 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 1) Make a light theme-compatable readme.md for my userpage.
 2) Make guestbook like the one on c4cs.tripod.com.
 3) Make polished releases on my own repos, and fix all issues. 
-4) Fix my GitHub page 😅.
-5) Ø
+4) Fix my GitHub webpage 😅.
+5) Make Trojan.JS.Youareanidiot into html5
 
 ### Hi there! It's me, Chicky 😋!
 - 🛠 I am an ameatur coder. I dabble with Batch, VBScript and PowerShell, along with JavaScript and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
