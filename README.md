@@ -138,6 +138,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
     - [Windows power tools](https://github.com/CaptainChicky/PowerToys)
     - [Magnet to torrent](https://github.com/CaptainChicky/Magnet2Torrent)
     - [Dynamically generated stats for GitHub readmes](https://github.com/CaptainChicky/github-readme-stats)
+    - [Who's gene is it anyway?](https://github.com/CaptainChicky/Whose-gene-is-it-anyway)
     
 5) My other projects:
 - Self-created:
