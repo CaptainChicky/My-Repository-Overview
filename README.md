@@ -12,8 +12,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 - 🐦 I am also science/bird enthusiast, an avid 🎹pianist/violinist🎻, and a hobby writer 📝.
 - 😄 Pronouns: He/him.
 - 💼 I created small scripts like the [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever) and potpourris of tools along with other useful things, as seen in my repository "[Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)"! 
-- ⚡ Fun/random fact: 2021 is starting off more juicy than 2020.
-
+- ⚡ Fun/random fact:  💎👐💎👐💎👐 BUY GME AND HOLD THAT FUCKING BITCH TO THE MOON 🚀🚀🚀🚀🚀🚀 
 #### Stats and others 🤗!
 <details>
   <summary>Here are my GitHub stats!</summary>
