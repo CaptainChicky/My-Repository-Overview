@@ -3,11 +3,11 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 ## YOOOOO I qualified for the GitHub student dev package and now I'm GitHub pro lol. I guess being young has its benefits >.>
 
 ##### GitHub to-do list(I can't do much rn lol. busy asf on other things)
-0) Figure out how to use all the benefits of GitHub pro before I graduate university lmao.\
-1) Make a light theme-compatable readme.md for my userpage.\
-2) Make guestbook like the one on c4cs.tripod.com.\
-3) Make polished releases on my own repos, and fix all issues. \
-4) Fix my GitHub webpage 😅.\
+0) Figure out how to use all the benefits of GitHub pro before I graduate university lmao.
+1) Make a light theme-compatable readme.md for my userpage.
+2) Make guestbook like the one on c4cs.tripod.com.
+3) Make polished releases on my own repos, and fix all issues. 
+4) Fix my GitHub webpage 😅.
 5) Make Trojan.JS.Youareanidiot into html5
 
 ### Hi there! It's me, Chicky 😋!
