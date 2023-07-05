@@ -1,0 +1,1478 @@
+Skip to content <#start-of-content>
+
+
+  Global navigation
+
+  *
+
+    Home <https://github.com/dashboard>
+  *
+
+    Issues <https://github.com/issues>
+  *
+
+    Pull requests <https://github.com/pulls>
+  *
+
+    Discussions <https://github.com/discussions>
+
+#
+
+  *
+
+    Explore <https://github.com/explore>
+  *
+
+    Marketplace <https://github.com/marketplace>
+  *
+
+    Give new navigation feedback Beta <https://gh.io/navigation-update>
+
+© 2023 GitHub, Inc.
+
+About <https://github.com/about> Blog <https://github.blog/> Terms
+<https://docs.github.com/site-policy/github-terms/github-terms-of-service> Privacy <https://docs.github.com/site-policy/privacy-policies/github-privacy-statement> Security <https://github.com/security> Status <https://www.githubstatus.com/>
+
+<https://github.com/>
+*CaptainChicky
+
+* <https://github.com/CaptainChicky>
+
+  * CaptainChicky <https://github.com/CaptainChicky>
+
+Type / to search
+
+Command palette
+
+
+  Search code, repositories, users, issues, pull requests...
+
+Search
+
+Clear
+
+  *
+
+
+          Owners
+
+      o
+
+        CaptainChicky Jump to <https://github.com/CaptainChicky>
+      o
+
+        github Jump to <https://github.com/github>
+      o
+
+        actions Jump to <https://github.com/actions>
+      o
+
+        ruby Jump to <https://github.com/ruby>
+      o
+
+        abd328 Jump to <https://github.com/abd328>
+  *
+  *
+
+
+          Repositories
+
+      o
+
+        CaptainChicky/captainchicky.github.io Jump to
+        <https://github.com/CaptainChicky/captainchicky.github.io>
+      o
+
+        github/git-sizer Jump to <https://github.com/github/git-sizer>
+      o
+
+        CaptainChicky/luscious-downloader Jump to
+        <https://github.com/CaptainChicky/luscious-downloader>
+      o
+
+        actions/configure-pages Jump to
+        <https://github.com/actions/configure-pages>
+      o
+
+        CaptainChicky/Trojan.JS.Youareanidiot Jump to
+        <https://github.com/CaptainChicky/Trojan.JS.Youareanidiot>
+
+10 suggestions.
+
+Search syntax tips
+<https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax>
+Give feedback
+
+
+  Provide feedback
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel
+
+Submit feedback
+
+
+  Saved searches
+
+
+    Use saved searches to filter your results more quickly
+
+Name
+Query
+
+To see all available qualifiers, see our documentation
+<https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax>.
+
+Cancel
+
+Create saved search
+
+Create new...
+
+  *
+
+    New repository <https://github.com/new>
+  *
+
+    Import repository <https://github.com/new/import>
+  *
+  *
+
+    New codespace <https://github.com/codespaces/new>
+  *
+
+    New gist <https://gist.github.com/>
+  *
+  *
+
+    New organization <https://github.com/account/organizations/new>
+  *
+
+    New project
+
+<https://github.com/issues>
+Issues
+
+<https://github.com/pulls>
+Pull requests
+
+<https://github.com/notifications>
+You have no unread notifications
+
+
+  Account menu
+
+CaptainChicky Captain Chicky
+
+  *
+
+    Loading...
+
+  *
+  *
+
+    Your profile <https://github.com/CaptainChicky>
+  *
+  *
+
+    Your repositories <https://github.com/CaptainChicky?tab=repositories>
+  *
+
+    Your projects <https://github.com/CaptainChicky?tab=projects>
+  *
+
+    Your codespaces <https://github.com/codespaces>
+  *
+
+    Loading...
+
+  *
+
+    Your stars <https://github.com/CaptainChicky?tab=stars>
+  *
+
+    Your sponsors <https://github.com/sponsors/accounts>
+  *
+
+    Your gists <https://gist.github.com/mine>
+  *
+  *
+
+    Loading...
+
+  *
+
+    Loading...
+
+  *
+
+    Loading...
+
+  *
+
+    Settings <https://github.com/settings/profile>
+  *
+  *
+
+    GitHub Docs <https://docs.github.com/>
+  *
+
+    GitHub Support <https://support.github.com/>
+  *
+  * Sign out <https://github.com/logout>
+
+  *
+
+    Overview <https://github.com/CaptainChicky>
+  *
+
+    Repositories 68 <https://github.com/CaptainChicky?tab=repositories>
+  *
+
+    Projects 0 <https://github.com/CaptainChicky?tab=projects>
+  *
+
+    Packages 0 <https://github.com/CaptainChicky?tab=packages>
+  *
+
+    Stars 147 <https://github.com/CaptainChicky?tab=stars>
+
+More
+
+  * Overview <https://github.com/CaptainChicky>
+  * Repositories <https://github.com/CaptainChicky?tab=repositories>
+  * Projects <https://github.com/CaptainChicky?tab=projects>
+  * Packages <https://github.com/CaptainChicky?tab=packages>
+  * Stars <https://github.com/CaptainChicky?tab=stars>
+
+You signed in with another tab or window. Reload to refresh your
+session. You signed out in another tab or window. Reload to refresh your
+session. You switched accounts on another tab or window. Reload to
+refresh your session.
+
+{{ message }}
+
+/  ...  /  
+CaptainChicky  /  
+
+Clear Command Palette
+
+Tip: Type # to search pull requests
+Type ? for help and tips
+Tip: Type # to search issues
+Type ? for help and tips
+Tip: Type # to search discussions
+Type ? for help and tips
+Tip: Type ! to search projects
+Type ? for help and tips
+Tip: Type @ to search teams
+Type ? for help and tips
+Tip: Type @ to search people and organizations
+Type ? for help and tips
+Tip: Type > to activate command mode
+Type ? for help and tips
+Tip: Go to your accessibility settings to change your keyboard shortcuts
+Type ? for help and tips
+Tip: Type author:@me to search your content
+Type ? for help and tips
+Tip: Type is:pr to filter to pull requests
+Type ? for help and tips
+Tip: Type is:issue to filter to issues
+Type ? for help and tips
+Tip: Type is:project to filter to projects
+Type ? for help and tips
+Tip: Type is:open to filter to open content
+Type ? for help and tips
+We’ve encountered an error and some results aren't available at this
+time. Type a new search or try again later.
+No results matched your search
+Top result
+Commands Type > to filter
+Global Commands Type > to filter
+This Page
+Files
+Pages
+Access Policies
+Organizations
+Repositories
+Issues, pull requests, and discussions Type # to filter
+Teams
+Users
+Projects
+Projects (classic)
+Modes
+Use filters in issues, pull requests, discussions, and projects
+
+Search for *issues* and *pull requests* # Search for *issues, pull
+requests, discussions,* and *projects* # Search for *organizations,
+repositories,* and *users* @ Search for *projects* ! Search for *files*
+/ Activate *command mode* > Search your issues, pull requests, and
+discussions # author:@me Search your issues, pull requests, and
+discussions # author:@me Filter to pull requests # is:pr Filter to
+issues # is:issue Filter to discussions # is:discussion Filter to
+projects # is:project Filter to open issues, pull requests, and
+discussions # is:open
+
+<https://github.com/account>
+😃
+Hopefully I have time to code again???
+
+
+      Edit status
+
+😃
+😃
+
+Could not update your status, please try again.
+80 remaining
+
+
+        Suggestions:
+
+🌴
+On vacation
+
+🤒
+Out sick
+
+🏠
+Working from home
+
+🎯
+Focusing
+
+Busy
+
+When others mention you, assign you, or request your review, GitHub will
+let them know that you have limited availability.
+
+Clear status
+Never
+
+  *
+    Never
+    Keep this status until you clear your status or edit your status.
+
+  *
+  *
+    in 30 minutes
+
+  *
+    in 1 hour
+
+  *
+    in 4 hours
+
+  *
+    today
+
+  *
+    this week
+
+Set status
+
+Clear status
+
+
+  Captain Chicky CaptainChicky
+
+😃
+Hopefully I have time to code again???
+
+
+      Edit status
+
+😃
+😃
+
+Could not update your status, please try again.
+80 remaining
+
+
+        Suggestions:
+
+🌴
+On vacation
+
+🤒
+Out sick
+
+🏠
+Working from home
+
+🎯
+Focusing
+
+Busy
+
+When others mention you, assign you, or request your review, GitHub will
+let them know that you have limited availability.
+
+Clear status
+Never
+
+  *
+    Never
+    Keep this status until you clear your status or edit your status.
+
+  *
+  *
+    in 30 minutes
+
+  *
+    in 1 hour
+
+  *
+    in 4 hours
+
+  *
+    today
+
+  *
+    this week
+
+Set status
+
+Clear status
+
+Name
+
+Display Pro badge.
+Bio
+
+Just an ameatur coder and a science/bird enthusiast.
+
+You can *@mention* other users and organizations to link to them.
+
+Pronouns
+
+Display current local time
+
+Social accounts
+
+FacebookHometown Instagram LinkedIn Mastodon Reddit Twitch TwitterYouTube
+
+FacebookHometown Instagram LinkedIn Mastodon Reddit Twitch TwitterYouTube
+
+FacebookHometown Instagram LinkedIn Mastodon Reddit Twitch TwitterYouTube
+
+FacebookHometown Instagram LinkedIn Mastodon Reddit Twitch TwitterYouTube
+
+Save Cancel
+
+Just an ameatur coder and a science/bird enthusiast.
+Edit profile
+
+17 followers <https://github.com/CaptainChicky?tab=followers> · 28
+following <https://github.com/CaptainChicky?tab=following>
+
+  *
+
+    haha i do wish sometimes
+  *
+
+    On the Internet
+  *
+
+    https://theaviary.me <https://theaviary.me/>
+  *
+    Twitter
+
+    @CaptChicky <https://twitter.com/CaptChicky>
+
+
+    Achievements <https://github.com/CaptainChicky?tab=achievements>
+
+Achievement: Quickdraw
+<https://github.com/CaptainChicky?achievement=quickdraw&tab=achievements>Achievement: Starstruck <https://github.com/CaptainChicky?achievement=starstruck&tab=achievements>Achievement: Pull Shark <https://github.com/CaptainChicky?achievement=pull-shark&tab=achievements>
+BetaSend feedback
+<https://github.com/orgs/community/discussions/categories/profile>
+
+
+    Achievements <https://github.com/CaptainChicky?tab=achievements>
+
+Achievement: Quickdraw
+<https://github.com/CaptainChicky?achievement=quickdraw&tab=achievements>Achievement: Starstruck <https://github.com/CaptainChicky?achievement=starstruck&tab=achievements>Achievement: Pull Shark <https://github.com/CaptainChicky?achievement=pull-shark&tab=achievements>
+BetaSend feedback
+<https://github.com/orgs/community/discussions/categories/profile>
+
+
+    Highlights
+
+  * Pro
+
+New <https://github.com/new>
+Type All
+Select type
+
+All
+
+Public
+
+Private
+
+Sources
+
+Forks
+
+Archived
+
+Can be sponsored
+
+Mirrors
+
+Templates
+
+Language All
+Select language
+
+All
+
+HTML
+
+JavaScript
+
+Python
+
+PureBasic
+
+PowerShell
+
+TypeScript
+
+Vue
+
+SCSS
+
+C++
+
+C#
+
+VBScript
+
+Batchfile
+
+Pascal
+
+Jupyter Notebook
+
+PHP
+
+Visual Basic
+
+Sort Stars
+Select order
+
+Last updated
+
+Name
+
+Stars
+
+New <https://github.com/new>
+
+  *
+
+
+          anime-game <https://github.com/CaptainChicky/anime-game>
+          Public archive
+
+    Forked from namanchikara/anime-game
+    <https://github.com/namanchikara/anime-game>
+    C++ BSD 3-Clause Clear License Updated Apr 15, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Music-bot <https://github.com/CaptainChicky/Music-bot> Public
+
+    Forked from ZerioDev/Music-bot <https://github.com/ZerioDev/Music-bot>
+
+    A complete code to download for a cool Discord music bot !
+    JavaScript GNU General Public License v3.0 Updated Jul 1, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          idan-alter.github.io
+          <https://github.com/CaptainChicky/idan-alter.github.io> Public
+
+    Forked from Idan-Alter/idan-alter.github.io
+    <https://github.com/Idan-Alter/idan-alter.github.io>
+
+    My blog
+    SCSS Creative Commons Attribution Share Alike 4.0 International
+    Updated Jul 1, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Flappuccino <https://github.com/CaptainChicky/Flappuccino> Public
+
+    Forked from PolyMarsDev/Flappuccino
+    <https://github.com/PolyMarsDev/Flappuccino>
+
+    A Pygame game made in 48 hours
+    Python Updated Aug 9, 2022
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Hailstone-Numbers
+          <https://github.com/CaptainChicky/Hailstone-Numbers> Public
+
+    shit pythong project that sucks
+    Python Updated Aug 5, 2022
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Akebi-GC <https://github.com/CaptainChicky/Akebi-GC> Public
+          archive
+
+    Forked from lwd-temp/Akebi-GC <https://github.com/lwd-temp/Akebi-GC>
+
+    The great software for some game that exploiting anime girls (and
+    boys).
+    C++ Apache License 2.0 Updated Jan 20, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Galaga <https://github.com/CaptainChicky/Galaga> Public
+
+    Currently this is kinda broken if you play for too long it lags the
+    hell out and spams sprites fsr
+    TypeScript Updated Apr 18, 2022
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Collect <https://github.com/CaptainChicky/Collect> Public
+
+    Thing thats pretty bad lol
+    Python Updated Apr 18, 2022
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          dmc <https://github.com/CaptainChicky/dmc> Public
+
+    Forked from Endermanch/dmc <https://github.com/Endermanch/dmc>
+    Updated Nov 25, 2018
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          diep_bot <https://github.com/CaptainChicky/diep_bot> Public
+
+    Forked from PiotrDabkowski/diep_bot
+    <https://github.com/PiotrDabkowski/diep_bot>
+
+    Diep.io bot https://youtu.be/msi5ATiln3U https://youtu.be/DzugOGdx518
+    JavaScript Updated Jul 18, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          diep.io-scripts
+          <https://github.com/CaptainChicky/diep.io-scripts> Public
+
+    Forked from supahero1/diep.io <https://github.com/supahero1/diep.io>
+    JavaScript MIT License Updated Jul 1, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          diep2_old <https://github.com/CaptainChicky/diep2_old> Public
+
+    source code of discontinued diep2
+    JavaScript Apache License 2.0 Updated Aug 29, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          arrasio <https://github.com/CaptainChicky/arrasio> Public
+
+    Forked from bag-of-bug/arrasio <https://github.com/bag-of-bug/arrasio>
+
+    A fan-made sequel to diep.io
+    JavaScript GNU General Public License v3.0 Updated Jun 18, 2019
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Obstar <https://github.com/CaptainChicky/Obstar> Public
+
+    Forked from bag-of-bug/Obstar <https://github.com/bag-of-bug/Obstar>
+
+    Obstar/Korexk source code
+    JavaScript GNU General Public License v3.0 Updated May 29, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Script-Sharing
+          <https://github.com/CaptainChicky/Script-Sharing> Public
+
+    Forked from wdomon/Script-Sharing
+    <https://github.com/wdomon/Script-Sharing>
+
+    Scripts I've written for myself and am willing to share. While I've
+    tested and used these on a regular basis, please use these only if
+    you fully understand what they do and whether or not they'll o…
+    PowerShell GNU General Public License v3.0 Updated Jul 1, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          WebGL-Fluid-Simulation
+          <https://github.com/CaptainChicky/WebGL-Fluid-Simulation> Public
+
+    Forked from PavelDoGreat/WebGL-Fluid-Simulation
+    <https://github.com/PavelDoGreat/WebGL-Fluid-Simulation>
+
+    Play with fluids in your browser (works even on mobile)
+    JavaScript MIT License Updated Oct 7, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          luscious-downloader
+          <https://github.com/CaptainChicky/luscious-downloader> Public
+
+    Forked from Lucas8x/luscious-downloader
+    <https://github.com/Lucas8x/luscious-downloader>
+
+    Download Luscious Albums
+    Python MIT License Updated Jul 1, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          TrollRAT <https://github.com/CaptainChicky/TrollRAT> Public
+
+    Forked from 0mBra12/TrollRAT <https://github.com/0mBra12/TrollRAT>
+
+    A remote trolling software mainly intended for Tech Support Scammers.
+    C# 1 <https://github.com/CaptainChicky/TrollRAT/forks> MIT License
+    Updated May 20, 2017
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Illuminati <https://github.com/CaptainChicky/Illuminati> Public
+
+    Forked from 0mBra12/Illuminati <https://github.com/0mBra12/Illuminati>
+
+    The Illuminati Joke Program
+    C++ 1 <https://github.com/CaptainChicky/Illuminati/forks> Updated
+    Aug 3, 2016
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Invoke-BSOD <https://github.com/CaptainChicky/Invoke-BSOD> Public
+
+    Forked from 0mBra12/Invoke-BSOD
+    <https://github.com/0mBra12/Invoke-BSOD>
+
+    For when you want a computer to be done - without admin!
+    PowerShell 1 <https://github.com/CaptainChicky/Invoke-BSOD/forks>
+    Updated Mar 30, 2018
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          malware-collection
+          <https://github.com/CaptainChicky/malware-collection> Public
+          archive
+
+    Forked from gr33ntii/malware-collection
+    <https://github.com/gr33ntii/malware-collection>
+    PHP Updated Jul 2, 2017
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          REGFuck <https://github.com/CaptainChicky/REGFuck> Public
+
+    Forked from 0mBra12/REGFuck <https://github.com/0mBra12/REGFuck>
+
+    Registry Corruptor with intentionally shitty GUI and lazy coding
+    C# 1 <https://github.com/CaptainChicky/REGFuck/forks> MIT License
+    Updated Jan 28, 2017
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          py-kms <https://github.com/CaptainChicky/py-kms> Public
+
+    Forked from likeybbs/py-kms <https://github.com/likeybbs/py-kms>
+
+    KMS emulator
+    Python The Unlicense Updated Feb 3, 2019
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Tools-used-in-PC-Optimizer-Pro
+          <https://github.com/CaptainChicky/Tools-used-in-PC-Optimizer-Pro> Private
+
+    List of tools. I DO NOT OWN, NOR MAKE ANY OF THESE. THE TOOLS I USED
+    ARE IN THE PUBLIC DOMAIN, FREE FOR ANYONE TO USE.
+    VBScript Updated Dec 15, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          VineMEMZ <https://github.com/CaptainChicky/VineMEMZ> Public
+
+    Forked from OwO-Studio/VineMEMZ
+    <https://github.com/OwO-Studio/VineMEMZ>
+
+    Modified Version of the MEMZ Trojan for Vinesauce Joel
+    C++ 1 <https://github.com/CaptainChicky/VineMEMZ/forks> MIT License
+    Updated Oct 21, 2018
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          MEMZ-4.0 <https://github.com/CaptainChicky/MEMZ-4.0> Public
+
+    Forked from OwO-Studio/MEMZ-4.0
+    <https://github.com/OwO-Studio/MEMZ-4.0>
+
+    Do not start MEMZ-Destructive.exe or .bat!!!This will kill your
+    MBR!!!Try payloads in MEMZ-Clean!MEMZ-Clean don't destructive,you
+    can watch payloads with it.
+    Batchfile Updated Oct 21, 2018
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          MEMZ <https://github.com/CaptainChicky/MEMZ> Public
+
+    Forked from NyDubh3/MEMZ <https://github.com/NyDubh3/MEMZ>
+
+    A trojan made for Danooct1's User Made Malware Series.
+    C++ Updated Aug 8, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          youtube-dl <https://github.com/CaptainChicky/youtube-dl> Public
+
+    Forked from ytdl-org/youtube-dl
+    <https://github.com/ytdl-org/youtube-dl>
+
+    Command-line program to download videos from YouTube.com and other
+    video sites
+    Python The Unlicense Updated Jul 1, 2023
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          Setting-PowerShell-Execution-Level
+          <https://github.com/CaptainChicky/Setting-PowerShell-Execution-Level> Public
+
+    A useless project I spent 2-3 hours making when I was first learning
+    PowerShell...
+    powershell <https://github.com/topics/powershell> administrator
+    <https://github.com/topics/administrator> useless
+    <https://github.com/topics/useless> batch-script
+    <https://github.com/topics/batch-script> learning-powershell
+    <https://github.com/topics/learning-powershell> executionpolicy
+    <https://github.com/topics/executionpolicy> ps1-scripts
+    <https://github.com/topics/ps1-scripts>
+    PowerShell Mozilla Public License 2.0 Updated Dec 12, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+  *
+
+
+          VBScript-Notifications-Joke
+          <https://github.com/CaptainChicky/VBScript-Notifications-Joke>
+          Public
+
+    A little computer virus joke made from notifications via VBScript.
+    visual-basic <https://github.com/topics/visual-basic> prank
+    <https://github.com/topics/prank> friends
+    <https://github.com/topics/friends> shortcut
+    <https://github.com/topics/shortcut> icon
+    <https://github.com/topics/icon> computer
+    <https://github.com/topics/computer> batch
+    <https://github.com/topics/batch>
+    VBScript 1
+    <https://github.com/CaptainChicky/VBScript-Notifications-Joke/forks>
+    The Unlicense Updated Dec 16, 2020
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred
+
+
+              Lists
+
+    Star
+
+
+              Lists
+
+Previous
+<https://github.com/CaptainChicky?language=&page=1&q=&sort=stargazers&tab=repositories> Next <https://github.com/CaptainChicky?language=&page=3&q=&sort=stargazers&tab=repositories>
+
+
+    Footer
+
+<https://github.com/> © 2023 GitHub, Inc.
+
+
+      Footer navigation
+
+  * Terms
+    <https://docs.github.com/site-policy/github-terms/github-terms-of-service>
+  * Privacy
+    <https://docs.github.com/site-policy/privacy-policies/github-privacy-statement>
+  * Security <https://github.com/security>
+  * Status <https://www.githubstatus.com/>
+  * Docs <https://docs.github.com/>
+  * Contact GitHub <https://support.github.com/?tags=dotcom-footer>
+  * Pricing <https://github.com/pricing>
+  * API <https://docs.github.com/>
+  * Training <https://services.github.com/>
+  * Blog <https://github.blog/>
+  * About <https://github.com/about>
+
+You can’t perform that action at this time.
+CaptainChicky (Captain Chicky)
