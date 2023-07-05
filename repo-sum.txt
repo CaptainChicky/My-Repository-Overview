@@ -1,0 +1,88 @@
+Unfinished
+    Temporary-Note-taking-App
+    Remove-Adobe-Genuine-Client
+    Activate-Microsoft-products-for-testing-in-virtual-machines
+    Trojan.BAT.PC-Optimizer-Pro 
+    Tools-used-in-PC-Optimizer-Pro 
+    Hash-Retriever 
+    Flappuccino 
+    Hailstone-Numbers 
+    No-Restart 
+    Set-date-and-time-to-bypass-Flash-block 
+    Magnet2Torrent 
+    aops.com-related-code
+    Bat-To-Exe-Converter-Downloader 
+    Vbs-To-Exe-Downloader 
+    Ps1-To-Exe-Downloader
+    IPFS-File-Downloader
+    base64-de-encoder 
+    VBScript-Notifications-Joke
+    Setting-PowerShell-Execution-Level 
+    py-kms 
+    Invoke-BSOD 
+    luscious-downloader
+    Script-Sharing 
+    Obstar 
+    arrasio
+    diep2_old
+    diep.io-scripts
+    diep_bot
+    AP-CSP-Create-Task 
+    Subconscious-Grazer 
+
+
+just for archive purposes
+
+Continuously updating?
+    DeepCreamPy
+    Music-bot
+    BonziRogue 
+    feynman 
+    iblobtouch.github.io 
+    DeepMindBreak 
+    Koteyka-2.0 
+    youtube-dl 
+    MEMZ 
+    MEMZ-4.0 
+    VineMEMZ 
+    REGFuck 
+    Illuminati
+    TrollRAT
+    dmc
+    complex-analysis.github.io
+    idan-alter.github.io 
+    leimao.github.io
+
+Already archived
+    anime-game
+    Akebi-GC 
+    discord-bot-client 
+    Jajaja-Account-Nuker
+    cmd-pet 
+    nortonvirussupportcenter.com 
+    malware-collection 
+
+
+Finished
+    Trojan.JS.Youareanidiot
+    CSA-final-project
+
+
+
+Incorporate into website
+    captainchicky.github.io 
+    FluidSimulation - incorporate into github.io site
+    Galaga
+    Collect 
+    Maze-v2
+    discord-logo
+    DOMinion-build-demo 
+    WebGL-Fluid-Simulation 
+    sequence_manipulation_suite 
+
+
+
+
+Temp repo is just for my fucking around lol
+
+CaptainChicky is my display readme, update this later
