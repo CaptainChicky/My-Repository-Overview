@@ -4,10 +4,8 @@ Unfinished
     Activate-Microsoft-products-for-testing-in-virtual-machines
     Trojan.BAT.PC-Optimizer-Pro 
     Tools-used-in-PC-Optimizer-Pro 
-    Hash-Retriever 
     Flappuccino 
     Hailstone-Numbers 
-    No-Restart 
     Set-date-and-time-to-bypass-Flash-block 
     Magnet2Torrent 
     aops.com-related-code
@@ -16,10 +14,8 @@ Unfinished
     Ps1-To-Exe-Downloader
     IPFS-File-Downloader
     base64-de-encoder 
-    VBScript-Notifications-Joke
     Setting-PowerShell-Execution-Level 
     py-kms 
-    Invoke-BSOD 
     luscious-downloader
     Script-Sharing 
     Obstar 
@@ -52,6 +48,7 @@ Continuously updating?
     complex-analysis.github.io
     idan-alter.github.io 
     leimao.github.io
+    Invoke-BSOD 
 
 Already archived
     anime-game
@@ -66,7 +63,8 @@ Already archived
 Finished
     Trojan.JS.Youareanidiot
     CSA-final-project
-
+    Hash-Retriever 
+    VBScript-Jokes
 
 
 Incorporate into website
