@@ -2,8 +2,6 @@ Unfinished
     Temporary-Note-taking-App
     Remove-Adobe-Genuine-Client
     Activate-Microsoft-products-for-testing-in-virtual-machines
-    Trojan.BAT.PC-Optimizer-Pro 
-    Tools-used-in-PC-Optimizer-Pro 
     Flappuccino 
     Hailstone-Numbers 
     Set-date-and-time-to-bypass-Flash-block 
@@ -65,6 +63,7 @@ Finished
     CSA-final-project
     Hash-Retriever 
     VBScript-Jokes
+    Trojan.BAT.PC-Optimizer-Pro 
 
 
 Incorporate into website
