@@ -27,7 +27,7 @@ Somehow I don't have an F this is a moiarcle lmao also what the fcku is a spelin
 
 
 ### Special Repositories 😎
-- [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(currently under construction).
+- [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website (source is private until I can sort some stuff out bruh, but it's live on https://theaviary.me).
 - [Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
 
 ### "Sign" my guestbook!
