@@ -6,7 +6,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 0) Figure out how to use all the benefits of GitHub pro before I graduate university lmao.
 1) Polish up all of my repos.
 2) Fix my GitHub webpage 😅.
-3) Learn mode C family language and get better at Rust.
+3) Learn more C family language and get better at Rust.
 
 ### Hi there! It's me, Chicky 😋!
 - 🛠 I am an ameatur coder. I dabble with webdev languages like js, some shell languages like PowerShell, along with Rust, Python, and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
