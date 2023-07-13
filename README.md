@@ -9,7 +9,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 3) Learn mode C family language and get better at Rust.
 
 ### Hi there! It's me, Chicky 😋!
-- 🛠 I am an ameatur coder. I dabble with webdev languages like js, some shell languages like VBScript and PowerShell, along with Rust and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
+- 🛠 I am an ameatur coder. I dabble with webdev languages like js, some shell languages like PowerShell, along with Rust, Python, and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
 - 🐦 I like birds and science. Astronomy 🤔 perhaps. Music is good too.
 - 😄 Pronouns: amogusඞඞඞඞඞඞඞඞඞඞඞ
 - 💼 I created shitty things that somehow magically work and I don't even know why.
