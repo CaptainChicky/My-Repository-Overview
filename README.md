@@ -1,26 +1,25 @@
 There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
 
-## YOOOOO I qualified for the GitHub student dev package and now I'm GitHub pro lol. I guess being young has its benefits >.>
+## YOOOOO I qualified for the GitHub student dev package and now I have GitHub pro lol. I guess being young has its benefits >.>
 
-##### GitHub to-do list(I can't do much rn lol. busy asf on other things)
+##### GitHub to-do list (I will get to them, surely, I say)
 0) Figure out how to use all the benefits of GitHub pro before I graduate university lmao.
-1) Make a light theme-compatable readme.md for my userpage.
-2) Make guestbook like the one on c4cs.tripod.com.
-3) Make polished releases on my own repos, and fix all issues. 
-4) Fix my GitHub webpage 😅.
-5) Make Trojan.JS.Youareanidiot into html5
+1) Polish up all of my repos.
+2) Fix my GitHub webpage 😅.
+3) Learn mode C family language and get better at Rust.
 
 ### Hi there! It's me, Chicky 😋!
-- 🛠 I am an ameatur coder. I dabble with Batch, VBScript and PowerShell, along with JavaScript and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
-- 🐦 I am also science/bird enthusiast, an avid 🎹pianist/violinist🎻, and a hobby writer 📝.
-- 😄 Pronouns: He/him.
-- 💼 I created small scripts like the [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever) and potpourris of tools along with other useful things, as seen in my repository "[Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)"!
-- ⚡ Fun/random fact: Percy landed on Mars woohoo! Next is TianWen! :D
+- 🛠 I am an ameatur coder. I dabble with webdev languages like js, some shell languages like VBScript and PowerShell, along with Rust and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
+- 🐦 I like birds and science. Astronomy 🤔 perhaps. Music is good too.
+- 😄 Pronouns: amogusඞඞඞඞඞඞඞඞඞඞඞ
+- 💼 I created shitty things that somehow magically work and I don't even know why.
+
+
 #### Stats and others 🤗!
 <details>
   <summary>Here are my GitHub stats!</summary>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaptainChicky&theme=blueberry&show_icons=true)
+  ![Chicky's github stats](https://github-readme-stats.vercel.app/api?username=CaptainChicky&theme=blueberry&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainChicky&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
